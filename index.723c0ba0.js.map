@@ -1,0 +1,1 @@
+{"mappings":"AAGAA,QAAQC,IAAI","sources":["src/app.ts"],"sourcesContent":["\nimport \"./styles.scss\";\n\nconsole.log(\"hello world\")\n"],"names":["console","log"],"version":3,"file":"index.723c0ba0.js.map"}
